@@ -1,6 +1,6 @@
 /* Project Euler Problem 9
  * Special Pythagorean triplet
- * 2016 Kenneth Jensen <kenneth@jensen.cf>
+ * 2016, Kenneth Jensen <kenneth@jensen.cf>
  * ---
  * A Pythagorean triplet is a set of three natural numbers, a < b < c, for 
  * which,

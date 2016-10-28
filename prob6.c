@@ -1,6 +1,6 @@
 /* Project Euler Problem 6
  * Largest palindrome product
- * 2016 Kenneth Jensen <kenneth@jensen.cf>
+ * 2016, Kenneth Jensen <kenneth@jensen.cf>
  * ---
  * The sum of the squares of the first ten natural numbers is,
  * 1^2 + 2^2 + ... + 10^2 = 385

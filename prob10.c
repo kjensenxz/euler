@@ -1,20 +1,9 @@
 /* Project Euler Problem 10
  * Summation of primes
- * 2016 Kenneth Jensen <kenneth@jensen.cf>
+ * 2016, Kenneth Jensen <kenneth@jensen.cf>
  * ---
  * The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.
  * Find the sum of all the primes below two million.
- * --
- * I'm proud of this one; it finishes in less than 0.5s on a 2.5 GHz 
- * 2nd-generation mobile i5 (with -O3)
- * Here's some benchmarks:
- *
- * $ gcc -O0 -lm prob10.c && time ./a.out
- * real	0m1.112s
- *
- * $ gcc -O3 -lm prob10.c && time ./a.out
- * real	0m0.423s
- *
  */
 
 #include <stdio.h>

@@ -1,3 +1,4 @@
+.*.sw*
 # Object files
 *.o
 *.ko
